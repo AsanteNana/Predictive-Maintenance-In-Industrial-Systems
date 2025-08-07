@@ -15,15 +15,6 @@ Key outcomes:
 - Demonstrated the value of unstructured textual logs in failure prediction.
 - Offers a scalable approach adaptable to data-scarce industrial settings.
 
-## 📁 Repository Structure
-
-├── data/ # Contains synthetic datasets (sensor + logs)
-├── notebooks/ # Jupyter notebooks for data generation, modeling, and analysis
-├── models/ # Trained models and evaluation results
-├── utils/ # Helper functions (e.g., data generation, preprocessing)
-├── requirements.txt # Python dependencies
-└── README.md # This file
-
 
 ## 📊 Technologies Used
 
